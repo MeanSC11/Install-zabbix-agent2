@@ -6,7 +6,7 @@
 # ======================================================
 
 # --- Variables ---
-ZBX_SERVER_IP="10.101.2.51"
+ZBX_SERVER_IP="192.168.1.1"
 ZBX_REPO_PKG="/tmp/zabbix-release_latest_7.4+ubuntu24.04_all.deb"
 ZBX_CONF="/etc/zabbix/zabbix_agent2.conf"
 
